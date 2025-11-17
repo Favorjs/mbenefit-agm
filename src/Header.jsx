@@ -19,7 +19,7 @@ export default function Header() {
     <header className="header">
       <div className="logo-container">
         <img src="/logo.png" alt="E-Voting Logo" className="logo" />
-        <img src="/imgs/lasaco.jpg" alt="lasaco-Logo" className="logo" />
+        <img src="/imgs/eunisell.jpg" alt="eunisell-Logo" className="logo" />
         <h4></h4>
       </div>
       
