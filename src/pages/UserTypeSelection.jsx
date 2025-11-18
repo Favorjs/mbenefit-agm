@@ -29,11 +29,7 @@ const UserTypeSelection = () => {
       transition={{ duration: 0.5 }}
     >
       <div className="user-type-card">
-<<<<<<< HEAD
         <h2>EUNISELL INTERLINKED PLC AGM REGISTRATION</h2>
-=======
-        <h2>INTERNATIONAL BREWERIES PLC 48TH AGM REGISTRATION</h2>
->>>>>>> 342210b8087f4772e8274cd7dbb86cead2d215e0
         <p>Please select your registration type:</p>
         
         {error && <p className="error-message">{error}</p>}
